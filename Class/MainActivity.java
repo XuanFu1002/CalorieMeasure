@@ -162,7 +162,7 @@ public class MainActivity extends FragmentActivity implements OnClickListener {
 		switch (item.getItemId()) {
 		case 1:
 			final TextView tvAbout = new TextView(this);
-			String about = "    此为传感器和信息物理网络的设计与实现课程作品，感谢你的使用！";
+			String about = "  感谢你的使用！";
 			tvAbout.setText(about);
 			tvAbout.setSingleLine(false);
 			tvAbout.setTextSize(20);
