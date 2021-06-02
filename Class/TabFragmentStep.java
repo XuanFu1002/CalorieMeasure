@@ -138,10 +138,6 @@ public class TabFragmentStep extends Fragment implements OnClickListener,
 		weight = mySharedPreferences.getFloat("weight", 65);
 		steplen = mySharedPreferences.getFloat("steplen", 80);
 		age = mySharedPreferences.getInt("age", 24);
-		sensitive = mySharedPreferences.getFloat("sensitive", 8);
-		lightive = mySharedPreferences.getFloat("lightive", 10);
-		LIGHT_BORDER = lightive;
-
 	}
 
 	private void initPersonalData() {
@@ -150,10 +146,6 @@ public class TabFragmentStep extends Fragment implements OnClickListener,
 		tvWeight.setText(weight + "");
 		tvSteplen.setText(steplen + "");
 		tvAge.setText(age + "");
-		tvSensitive.setText(sensitive + "");
-		AccelerometerSensorListener.SENSITIVITY = sensitive;
-		tvLightive.setText(lightive + "");
-		LIGHT_BORDER = lightive;
 	}
 
 	@Override
@@ -176,8 +168,6 @@ public class TabFragmentStep extends Fragment implements OnClickListener,
 		editor.putFloat("weight", weight);
 		editor.putFloat("steplen", steplen);
 		editor.putInt("age", age);
-		editor.putFloat("sensitive", sensitive);
-		editor.putFloat("lightive", lightive);
 		editor.commit();
 	}
 
@@ -222,21 +212,6 @@ public class TabFragmentStep extends Fragment implements OnClickListener,
 
 		pbPercent.setMax(10000);
 		cmPasstime.setOnChronometerTickListener(this);
-	}
-
-	@Override
-	public void setUserVisibleHint(boolean isVisibleToUser) {
-		super.setUserVisibleHint(isVisibleToUser);
-		if (isVisibleToUser) {
-			// 相当于Fragment的onResume
-			// Log.v("tag", "resume");
-			// Toast.makeText(getActivity(), "resume",
-			// Toast.LENGTH_SHORT).show();
-		} else {
-			// 相当于Fragment的onPause
-			// Log.v("tag", "pause");
-
-		}
 	}
 
 	
