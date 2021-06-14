@@ -19,7 +19,7 @@
 * 使用GPS傳感器,百度地圖定位
 * 方向傳感器,用來確保與手機方向一致
 
-![121044152-e0ee0480-c7e7-11eb-8f01-187ccc730a58](https://user-images.githubusercontent.com/69505145/121887549-72f68f80-cd49-11eb-82b9-31ed8f8fb8da.jpg | width=100)
+<img src="https://user-images.githubusercontent.com/69505145/121887549-72f68f80-cd49-11eb-82b9-31ed8f8fb8da.jpg" width="100" height="150">
 ![121044197-ea776c80-c7e7-11eb-8d8d-e77e508ff8ea](https://user-images.githubusercontent.com/69505145/121887675-9a4d5c80-cd49-11eb-9c8a-aa585fd9adbe.jpg)
 ![121047517-d7b16780-c7e8-11eb-9851-4a30f42137b9](https://user-images.githubusercontent.com/69505145/121887736-b3560d80-cd49-11eb-9c01-1ec6022d9027.jpg)
 
