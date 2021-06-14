@@ -18,16 +18,19 @@
 * 標記(籃、綠坐標):藍色座標標記起始位址,綠色座標標記最後位址
 * 使用GPS傳感器,百度地圖定位
 * 方向傳感器,用來確保與手機方向一致
-![Screenshot_20210607-232443](https://user-images.githubusercontent.com/50775529/121044152-e0ee0480-c7e7-11eb-8f01-187ccc730a58.jpg =100*150)
-![Screenshot_20210607-232524](https://user-images.githubusercontent.com/50775529/121044197-ea776c80-c7e7-11eb-8d8d-e77e508ff8ea.jpg =100*150)
-![Screenshot_20210607-233130](https://user-images.githubusercontent.com/50775529/121047517-d7b16780-c7e8-11eb-9851-4a30f42137b9.jpg =100*150)
+
+![121044152-e0ee0480-c7e7-11eb-8f01-187ccc730a58](https://user-images.githubusercontent.com/69505145/121887549-72f68f80-cd49-11eb-82b9-31ed8f8fb8da.jpg)
+![121044197-ea776c80-c7e7-11eb-8d8d-e77e508ff8ea](https://user-images.githubusercontent.com/69505145/121887675-9a4d5c80-cd49-11eb-9c8a-aa585fd9adbe.jpg)
+![121047517-d7b16780-c7e8-11eb-9851-4a30f42137b9](https://user-images.githubusercontent.com/69505145/121887736-b3560d80-cd49-11eb-9c01-1ec6022d9027.jpg)
+
+
 
 ### 2.計步器
 * 目標:點擊後可輸入預計完成的路程,以公尺為單位
 * 開始、暫停、繼續、重置: 紀錄運動時間
 * 性別、身高、體重、步長、年齡: 記錄使用者的基本資料，根據不同的身體素質，算出不同熱量消耗
 * 可計算消耗卡路里、路程、均速
-![Screenshot_20210607-232607](https://user-images.githubusercontent.com/50775529/121044171-e5b2b880-c7e7-11eb-88c4-2101a1118875.jpg=100*150)
+![121044171-e5b2b880-c7e7-11eb-88c4-2101a1118875](https://user-images.githubusercontent.com/69505145/121887609-8570c900-cd49-11eb-9ae2-852e7a617ff6.jpg)
 
 ### 4.UI
 * 使用簡潔的ui，在美觀的同時便於用戶操作使用
