@@ -5,7 +5,7 @@
 開發語言：java
 
 ## 安裝
-支持Android環境的手機下載，點擊下方連結即可下載，下載完後須到手機設定裡的軟體管理區塊，
+支持Android7.0環境以上的手機下載，點擊下方連結即可下載，下載完後須到手機設定裡的軟體管理區塊，
 將此應用軟體的權限允許(定位、檔案)打開，否則會遇上閃退問題
 
 軟體下載:https://github.com/tcita/Calori/blob/master/app/build/outputs/apk/debug/app-debug.apk
